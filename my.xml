@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<manifest>
+<remote name="hap" ip="10.19.144.72"></remote>
+<remote name="xian" ip="10.19.144.73"></remote>
+<default name="origin" ip="10.19.144.38"></default>
+<project name="huawei/extra/lib" path="vendor/huawei/extra/lib"></project>
+<project></project>
+<project></project>
+<project></project>
+<project></project>
+</manifest>
